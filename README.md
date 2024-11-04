@@ -41,7 +41,9 @@ This project automates UI testing for the Contact List App .
     allure serve result
     ```
     Or To create HTML-report с pytest-html, run:
+    ```bash
     pytest ./tests --html=report.html
+    ```
 
 ### Example Usage
 To run a specific test, specify the test file path:
