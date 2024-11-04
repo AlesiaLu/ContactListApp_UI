@@ -7,7 +7,7 @@ This project automates UI testing for the Contact List App .
 - **locators/**: Contains element locators for each page, grouped by page-specific locator files for easy maintenance.
 - **pages/**: Contains files for each page of the web application, with methods representing user actions (e.g., filling forms, clicking buttons, verifying elements).
 - **tests/**: Contains test files for each page, validating the logic and interactions defined in the corresponding page files.
-- **result/**: Stores Allure reports generated after each test run, providing a detailed view of test results and insights.
+- **results/**: Stores Allure reports generated after each test run, providing a detailed view of test results and insights.
 - 
 ### Tech Stack
 - **Python**
